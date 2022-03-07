@@ -14,8 +14,17 @@ def main():
     print("You told me the IPv4 address is:", user_input)
 
     # asking user for 'vendor name'
-    vendor = input("please input the vendor name: ")
+    vendor = input("Please input the vendor name: ")
     print("Vendor: ", vendor)
+
+    # asking user for 'explitive'
+    explitive = input("Please input the explitive name: ")
+    print("Explitive: ", explitive)
+
+    # asking user for 'Username'
+    username = input("Please input the username: ")
+    print("Explitive: ", explitive)
+    print(username, "'s", explitive, vendor, user_input)
 
 main()
 
