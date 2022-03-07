@@ -23,7 +23,7 @@ def main():
 
     # asking user for 'Username'
     username = input("Please input the username: ")
-    print("Explitive: ", explitive)
+    print("Username: ", username)
     print(username, "'s", explitive, vendor, user_input)
 
 main()
