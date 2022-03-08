@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Alta3 Research | RZFeeser
-   if, elif, else - A simple program using conditionals to make a decision."""
+
+"""Movie rating perfection standards by person"""
 
 
 message = 'The movie you just watched '
